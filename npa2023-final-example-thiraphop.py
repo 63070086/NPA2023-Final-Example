@@ -1,7 +1,7 @@
 #######################################################################################
-# FirstName/Surname:
-# Student ID:
-# Github repository URL: 
+# FirstName/Surname:Thiraphop Phokied
+# Student ID: 63070086
+# Github repository URL: https://github.com/63070086/NPA2023-Final-Example
 #######################################################################################
 # Instruction
 # Reads README.md in https://github.com/chotipat/NPA2023-Final-Example for more information.
